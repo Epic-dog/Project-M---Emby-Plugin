@@ -1,4 +1,6 @@
-# Emby projectM Visualizer (proof of concept, not build or test currently)
+# Emby projectM Visualizer 
+(proof of concept, not built or tested currently)
+
 #Build Instructions 
 This guide explains how to build:
 1.	The Emby plugin DLL 

@@ -1,5 +1,5 @@
-# Emby projectM Visualizer
-#Build Instructions (testing, not used yet)
+# Emby projectM Visualizer (proof of concept, not build or test currently)
+#Build Instructions 
 This guide explains how to build:
 1.	The Emby plugin DLL 
 2.	The Dockerized projectM visualization server 

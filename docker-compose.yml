@@ -1,0 +1,8 @@
+version: '3.9'
+services:
+  projectm:
+    build: ./visualizer-server
+    container_name: projectm-visualizer
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
